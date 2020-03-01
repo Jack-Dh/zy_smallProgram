@@ -1,0 +1,6 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  flex-direction: column;
+  box-sizing: border-box;
+} 
